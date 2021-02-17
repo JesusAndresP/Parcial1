@@ -1,0 +1,101 @@
+body{
+    background-color: #B983FF;
+    margin: 3%;
+}
+
+.horizontal{
+    color: #FFFF;
+    font-size: 20px;
+    margin-right: 2.7%;
+    margin-top: 3%;
+    font-family: 'Varta', sans-serif;
+
+}
+.horizontal li {
+    float: right;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+}
+.horizontal a{
+    margin: 0%;
+    color: #FFFF;
+    padding: 20px;
+    text-decoration: none;
+}
+
+
+.content{
+    color: #FFFF;
+    margin-top: 15%;
+    margin-left: 3.6%;
+}
+
+.content h1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 55px;
+}
+
+.content p{
+    width: 30%;
+    font-family: 'Varta', sans-serif;
+    font-size: 18px;
+}
+
+.content button{
+    background-color: #00eeff;
+    color: white;
+    font-family: 'Varta', sans-serif;
+    letter-spacing: 1px;
+    border: none;
+    border-radius: 25px;
+    height: 35px;
+    width: 110px;
+    cursor: pointer;
+}
+
+.esquina-azul{
+    position: fixed;
+    height: 300px;
+    z-index:-1;
+    right: -1%;
+    top: -10%;
+}
+
+.onda{
+    position: fixed;
+    height: 1600px;
+    z-index:-2;
+    right: -1%;
+    top: -45%;
+}
+
+.esquina-morada{
+    position: fixed;
+    height: 300px;
+    z-index:-1;
+    bottom: -15%;
+    left: -2%;
+}
+
+.mama{
+    position: fixed;
+    height: 550px;
+    top:21%;
+    right: 10%;
+}
+
+hr{
+    position: fixed;
+    border: none;
+    background-color: #8B5DD0;
+    border-radius: 5px;
+    height: 5px;
+    width: 850px;
+    top: 93%;
+    right: 7%;
+}
+
+
+
