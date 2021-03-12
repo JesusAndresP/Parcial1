@@ -97,6 +97,39 @@ hr{
     top: 90.5%;
     right: 20%;
 }
+#circulo1{
+    position: fixed;
+    height:7px;
+    width:7px;
+    background:#8B5DD0;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    left: 23%;
+    bottom: 30%;
+ }
+ #circulo2{
+    position: fixed;
+    height:7px;
+    width:7px;
+    background:#FFFFFF;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    left: 25%;
+    bottom: 30%;
+ }
+ #circulo3{
+    position: fixed;
+    height:7px;
+    width:7px;
+    background:#8B5DD0;
+    -moz-border-radius:50px;
+    -webkit-border-radius:50px;
+    border-radius:50px;
+    left: 27%;
+    bottom: 30%;
+ }
 
 
 
